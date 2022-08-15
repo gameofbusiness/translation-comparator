@@ -11,7 +11,7 @@ Requirement: Python
 * Download translation-comparator.py
 
 ```
-git clone https://github.com/gameofbusiness/Translation-Comparator.git
+git clone https://github.com/gameofbusiness/translation-comparator.git
 ```
 
 * Note the folder location so you can navigate to it in Terminal.
@@ -26,7 +26,7 @@ git clone https://github.com/gameofbusiness/Translation-Comparator.git
 * Run Translation Comparator
 	* Syntax: (python|python3) translation-comparator.py
 	* Either python or python3 depending on which version of Python you have. 
-		** If you know that you have installed Python on your computer, and you want to determine the version of Python that you have installed, open the Terminal app on your computer. Use the command "python --version" or "python -V". If neither of those work, they will return "command not found: python". Then use the command "python3 --version", adding the "3" after the "python" in the first word of the command. If that does not work, then re-install Python, and use the above commands to confirm the version of Python you have installed. 
+		* If you know that you have installed Python on your computer, and you want to determine the version of Python that you have installed, open the Terminal app on your computer. Use the command "python --version" or "python -V". If neither of those work, they will return "command not found: python". Then use the command "python3 --version", adding the "3" after the "python" in the first word of the command. If that does not work, then re-install Python, and use the above commands to confirm the version of Python you have installed. 
 
 # Example Output
 
